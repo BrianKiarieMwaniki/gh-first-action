@@ -14,5 +14,5 @@ jobs:
       - name: Multiple Command lines
         run: |
           echo "First command"
-          echo "Second command
+          echo "Second command"
           
